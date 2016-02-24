@@ -1,6 +1,8 @@
 # sdl_apfel
 Apfelmänchen mit SDL
 
+![alt tag](./screenshot.png)
+
 ###Unter Linux Kompilieren###
 -----------------------
 
