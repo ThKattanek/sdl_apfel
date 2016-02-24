@@ -95,7 +95,7 @@ int main(void)
     }
 
 
-    cout << endl << "*** SDL Apfelmännchen ***" << endl;
+    cout << endl << "*** SDL Apfelmaennchen ***" << endl;
 
 	if(SDL_Init(SDL_INIT_VIDEO) < 0)
 	{
