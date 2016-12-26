@@ -1,4 +1,4 @@
-// (C) Kattanek
+﻿// (C) Kattanek
 // 08.11.2014
 
 #include <time.h>
@@ -77,7 +77,7 @@ int main(void)
     fractal_param.y1 = 1.2;
     fractal_param.y2 = -1.2;
 
-    fractal_param.max_iteration = 150;
+    fractal_param.max_iteration = 300;
     fractal_param.screen_xw = SCREEN_XW;
     fractal_param.screen_yw = SCREEN_YW;
 
